@@ -1,0 +1,39 @@
+body {
+	font-family: Georgia ;
+}
+#baner,
+#stopka{
+    background-color: #C75B39;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#srodek{
+    display: flex;
+}
+#lewy{
+    background-color:  #FF8A65;
+    width: 25%;
+    height: 500px;
+    padding-top: 50px;
+}
+#prawy{
+    background-color: Snow;
+    width: 75%;
+    height: 500px;
+    text-align: center;
+    padding-top: 50px;
+}
+img{
+    width: 25%;
+    margin: 10px;
+}
+ol{
+    margin: 5px;
+}
+span{
+    color: black;
+}
+li {
+    color: snow;
+}
